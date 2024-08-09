@@ -9,12 +9,13 @@
 - ui pop up of item name if looked at
 - implement bandage with the correct logic
 - be in control when falling
+- gearscore -> tie it to enemies spawning near chests (3 good items == 150 gearscore, which is 3 +-1 enemies in the room)
 
 
 
 ## **Bugs**:
 
-- equipped gear UI should update to none if item unequipped
+- equipped gear UI should update to none if item is unequipped
 - pickup item order fix to camera
 
 
