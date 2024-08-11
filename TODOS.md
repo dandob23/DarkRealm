@@ -12,7 +12,6 @@
 
 ## **Bugs**:
 
-- equipped gear UI should update to none if item is unequipped
 - pickup item order fix to camera
 
 
