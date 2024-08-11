@@ -13,7 +13,7 @@
 ## **Bugs**:
 
 - pickup item order fix to camera
-
+- bow in inventory -> walking backwards goes brrrr
 
 
 ## **Extra TODOs**:
