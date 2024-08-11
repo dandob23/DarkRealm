@@ -6,9 +6,6 @@
 - attack animations for the weapon types
 - flame weapon effects for blue and green flame
 - instantly equip chestplate armor type to mesh after using it in inventory (no extra input needed)
-- ui pop up of item name if looked at
-- implement bandage with the correct logic
-- be in control when falling
 - gearscore -> tie it to enemies spawning near chests (3 good items == 150 gearscore, which is 3 +-1 enemies in the room)
 
 
@@ -25,3 +22,11 @@
 - find/make a base icon image for inventory/character UIs
 - implement axe as right hand weapon
 - copy BP_Fireball over to RedFlameLantern_BP
+- implement bandage with the correct logic
+- ui pop up of item name if looked at
+
+
+
+
+
+
