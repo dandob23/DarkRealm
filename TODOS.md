@@ -12,8 +12,8 @@
 
 ## **Bugs**:
 
-- pickup item order fix to camera (needs ui)
 - bow in inventory -> walking backwards goes brrrr
+- crouching animation blendspace
 
 ## **Extra TODOs**:
 
@@ -21,13 +21,10 @@
 - implement axe as right hand weapon
 - copy BP_Fireball over to RedFlameLantern_BP
 - implement bandage with the correct logic
-- ui pop up of item name if looked at
-
-
 
 ## **Refactor**:
 
-
+BP_PLAYERCharacter -> Draw right, left, lantern weapon
 
 
 
