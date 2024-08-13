@@ -14,9 +14,6 @@
 
 - pickup item order fix to camera (needs ui)
 - bow in inventory -> walking backwards goes brrrr
-- unsheath sword and shield -> change sword -> shield goes unsheathed
-- cant unsheath shield alone (probably animations fault, game thinks its unsheathed)
-- can unequip shield if drawn with sword
 
 ## **Extra TODOs**:
 
