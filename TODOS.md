@@ -14,6 +14,7 @@
 - bow in inventory -> walking backwards goes brrrr
 - crouching animation blendspace
 - arrows and ammunition work needed
+- dagger anim can be drawned without equipping weapon
 
 ## **Extra TODOs**:
 
