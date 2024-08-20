@@ -22,6 +22,8 @@
 - copy BP_Fireball over to RedFlameLantern_BP
 - implement bandage with the correct logic
 
+- FINISH THE CheckAttributeModifiers refactoring
+
 ## **Refactor**:
 
 BP_PLAYERCharacter -> Draw right, left, lantern weapon
