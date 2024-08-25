@@ -14,6 +14,9 @@
 - bow in inventory -> walking backwards goes brrrr
 - crouching animation blendspace
 - arrows and ammunition work needed
+- DeleteItemFromWorld animNotify
+- Lantern projectile doesn't ignore interactable objects
+
 
 ## **Extra TODOs**:
 
