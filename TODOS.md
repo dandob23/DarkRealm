@@ -15,8 +15,7 @@
 - crouching animation blendspace
 - arrows and ammunition work needed
 - DeleteItemFromWorld animNotify
-- Lantern projectile doesn't ignore interactable objects
-
+- RedFlameLantern 2nd bounce explosion breaks lighting in dark room
 
 ## **Extra TODOs**:
 
