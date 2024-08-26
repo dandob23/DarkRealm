@@ -15,16 +15,15 @@
 - crouching animation blendspace
 - arrows and ammunition work needed
 - DeleteItemFromWorld animNotify
-- RedFlameLantern 2nd bounce explosion breaks lighting in dark room
+
 
 ## **Extra TODOs**:
 
 - find/make a base icon image for inventory/character UIs
 - implement axe as right hand weapon
-- copy BP_Fireball over to RedFlameLantern_BP
-- implement bandage with the correct logic
-
 - FINISH THE CheckAttributeModifiers refactoring
+- GreenFlameLantern get rotation of the object and display the bounceprojectile actor
+
 
 ## **Refactor**:
 
