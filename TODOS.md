@@ -15,6 +15,7 @@
 - crouching animation blendspace
 - arrows and ammunition work needed
 - DeleteItemFromWorld animNotify
+- when health is zero bandage doesnt do anything
 
 
 ## **Extra TODOs**:
