@@ -2,7 +2,6 @@
 
 ## **Focus points**:
 
-- lantern attack
 - enemy ai
 - stealth (*extra*)
 - death and respawn system
