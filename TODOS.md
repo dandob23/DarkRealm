@@ -13,9 +13,6 @@
 - DeleteItemFromWorld animNotify
 - when health is zero bandage doesnt do anything
 
-- temp: go through door, sometimes damage is shared across enemies no matter the distance/weapon
-
-
 ## **Extra TODOs**:
 
 - implement axe as right hand weapon
